@@ -1,0 +1,39 @@
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\Debug\Demo.exe
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\Debug\Demo.pdb
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x86\Debug\Demo.Form1.resources
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x86\Debug\Demo.Properties.Resources.resources
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x86\Debug\Demo2.csproj.GenerateResource.Cache
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x86\Debug\Demo.exe
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x86\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\2.0\Demo2\obj\x86\Debug\Demo.exe
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\2.0\Demo2\obj\x86\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\Debug\Demo.exe
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\2.0\Demo2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\2.0\Demo2\obj\x86\Debug\Demo.Form1.resources
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\2.0\Demo2\obj\x86\Debug\Demo.Properties.Resources.resources
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\2.0\Demo2\obj\x86\Debug\Demo2.csproj.GenerateResource.Cache
+C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\obj\x86\Debug\Demo.exe
+C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\obj\x86\Debug\Demo.pdb
+C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\Debug\Demo.exe
+C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\Debug\Demo.pdb
+C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\obj\x86\Debug\Demo2.csprojResolveAssemblyReference.cache
+C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\obj\x86\Debug\Demo.Form1.resources
+C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\obj\x86\Debug\Demo2.csproj.GenerateResource.Cache
+D:\scala_workspace\CsharpCode\ZK4500Code\obj\x86\Debug\Demo.exe
+D:\scala_workspace\CsharpCode\ZK4500Code\obj\x86\Debug\Demo.pdb
+D:\scala_workspace\CsharpCode\ZK4500Code\obj\x86\Debug\Demo2.csprojResolveAssemblyReference.cache
+D:\scala_workspace\CsharpCode\ZK4500Code\obj\x86\Debug\Demo.Form1.resources
+D:\scala_workspace\CsharpCode\ZK4500Code\obj\x86\Debug\Demo.Properties.Resources.resources
+D:\scala_workspace\CsharpCode\ZK4500Code\obj\x86\Debug\Demo2.csproj.GenerateResource.Cache
+D:\scala_workspace\Debug\Demo.exe
+D:\scala_workspace\Debug\Demo.pdb
+D:\scala_workspace\Debug\Demo.exe.config
+C:\Users\Administrator\Debug\Demo.exe.config
+C:\Users\Administrator\Downloads\ZK4500Code\obj\x86\Debug\Demo.exe
+C:\Users\Administrator\Downloads\ZK4500Code\obj\x86\Debug\Demo.pdb
+D:\Debug\Demo.exe.config
+D:\ZK4500Code\obj\x86\Debug\Demo.exe
+D:\ZK4500Code\obj\x86\Debug\Demo.pdb

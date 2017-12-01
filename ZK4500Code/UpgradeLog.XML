@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Demo2">
+</Property><Property Name="解决方案文件" Value="C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Demo2.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Demo2.suo">
+</Property><Property Name="Date" Value="2017年5月17日">
+</Property><Property Name="Time" Value="17:05">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Demo2.sln" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Demo2.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Demo2.suo" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Demo2.suo">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Demo2.csproj" Description="项目文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Demo2.csproj">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="BitmapFormat.cs" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\BitmapFormat.cs">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Form1.cs" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Form1.Designer.cs" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Program.cs" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Properties\Settings.settings" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Form1.resx" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Properties\Resources.resx" Description="文件已成功备份为 C:\Users\kfzx-yanyj\Desktop\5月App\zk4500开发包\Live20R\C#\2.0\Demo2\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Demo2.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Demo2" Source="Demo2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Demo2.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Demo2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Demo2" Source="Demo2.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
