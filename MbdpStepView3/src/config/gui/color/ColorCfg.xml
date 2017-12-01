@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GB2312"?>
+<COLORS>
+  <COLOR ID="RED"    RED="255" GREEN="0"   BLUE="0"     DESC="红色" />
+  <COLOR ID="BLACK"  RED="0"   GREEN="0"   BLUE="0"     DESC="黑色" />
+  <COLOR ID="BLUE"   RED="0"   GREEN="0"   BLUE="255"   DESC="蓝色" />
+  <COLOR ID="GREEN"  RED="0"   GREEN="255" BLUE="0"     DESC="黑色" />
+  <COLOR ID="BSPLIT" RED="82"  GREEN="60"  BLUE="250"   DESC="基本分割线颜色" />
+</COLORS>

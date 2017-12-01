@@ -1,0 +1,6 @@
+三月 06, 2017 4:19:54 下午 com.icbc.devp.tool.log.Log error
+严重: 执行[UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='EDI' AND STEPNO IN ('CBMS_M_EDI_EDI_M_PROC_0007', 'EDI_M_PROC_0005', 'EDI_M_IMP_0004', 'EDI_M_PROC_0004', 'EDI_M_PROC_0001', 'EDI_M_IMP_0003', 'EDI_M_PROC_0007')]时出错：IO 错误: Software caused connection abort: recv failed
+三月 06, 2017 4:19:54 下午 com.icbc.devp.tool.log.Log error
+严重: 执行[UPDATE OBMS_BATCHSTEP_DEF SET ENABLE_FLAG='0' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE||'#'||TZGCODE='EDI' AND STEPNO IN ('CBMS_M_EDI_EDI_M_PROC_0007', 'EDI_M_PROC_0005', 'EDI_M_IMP_0004', 'EDI_M_PROC_0004', 'EDI_M_PROC_0001', 'EDI_M_IMP_0003', 'EDI_M_PROC_0007')]时出错：关闭的连接
+三月 06, 2017 4:19:54 下午 com.icbc.devp.tool.log.Log error
+严重: [EnableStepAction.actionPerformed]更新CBMS_M_EDI_EDI_M_PROC_0007失败！

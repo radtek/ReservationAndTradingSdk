@@ -1,0 +1,1617 @@
+======================================================
+8:55:20  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/corporbank/index.jsp?dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ&screenWidth=1680&screenHeight=1050
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/pub/dateSelectorHelper.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:40 GMT
+If-None-Match: "1ffc-5391333d03c00"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/time_chang.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "603a-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/submit.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 23 Aug 2016 05:40:14 GMT
+If-None-Match: "282d-53ab6994d6b80"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/dateSelector.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "2713-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/pub/jquery.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "1d7bb-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/pub/initialTime.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "c4d6-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/PublicVariable.js?Version=NOVAV189 HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "247-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/CurrencyInfo.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "bd5-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/querybatchpay.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "2993-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/ebdp-datepicker.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "13f7-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery-ui-1.8.16.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "12e-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/js/jquery-1.6.2.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:46 GMT
+If-None-Match: "16622-53913342bc980"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/js/ebdp-core.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "1de0-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/js/jquery-ui-1.8.16.min.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "33f2f-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/js/ebdp-datepicker.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "152f7-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.theme.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:40 GMT
+If-None-Match: "4492-5391333d03c00"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.base.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "1b5-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.accordion.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "43d-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.resizable.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "4a7-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.selectable.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:40 GMT
+If-None-Match: "14d-5391333d03c00"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.slider.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "48b-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.core.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "5dc-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.tabs.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "579-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.button.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "9cd-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.progressbar.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "16f-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.dialog.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "563-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.datepicker.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "1064-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+
+
+======================================================
+8:55:21  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/tongji.js?ver=181 HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "47ee-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+
+
+======================================================
+8:55:40  http://122.19.125.46:8081
+======================================================
+POST /ebankc/servlet/CSReqServlet HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Content-Length: 593
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ&dse_applicationId=-1&dse_pageId=8&dse_operationName=new_fovacheckQueryLstOp&MenuChain=%7CE6214%7CE6214%7CE6211%7CE6211%7CE97%7CE97&menuItemNoChain=%7CE6214%7CE6211%7CE97&dse_errorPage=error.jsp&begin_date_ss=20270101&end_date_ss=20270725&QRYTYPE=1&PLACE1=0&PLACE2=0110&accNo=&currType=&begin_date_s=20270101&end_date_s=20270725&Begin_pos=0&Show_num=20&top_num=2&Transaction_code=002496&Transaction_name=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&firstFlag=0&OrderStat=111&OrderStatus=&Status1=1&Status2=2&Status3=3&Status4=4&PLACE=0
+======================================================
+
+
+
+======================================================
+8:55:40  http://122.19.125.46:8081
+======================================================
+POST /ebankc/servlet/CSReqServlet HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/newcorporbank/fovacheck/fovacheck_query.jsp?menuItemNoChain=|E6214|E6211|E97&menuItemName=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&menuitemchain=|E6214|E6214|E6211|E6211|E97|E97&dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Content-Length: 593
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ&dse_applicationId=-1&dse_pageId=8&dse_operationName=new_fovacheckQueryLstOp&MenuChain=%7CE6214%7CE6214%7CE6211%7CE6211%7CE97%7CE97&menuItemNoChain=%7CE6214%7CE6211%7CE97&dse_errorPage=error.jsp&begin_date_ss=20270101&end_date_ss=20270725&QRYTYPE=1&PLACE1=0&PLACE2=0110&accNo=&currType=&begin_date_s=20270101&end_date_s=20270725&Begin_pos=0&Show_num=20&top_num=2&Transaction_code=002496&Transaction_name=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&firstFlag=0&OrderStat=111&OrderStatus=&Status1=1&Status2=2&Status3=3&Status4=4&PLACE=0
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/style/eshop.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "f0d-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/pub/initialTime.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "c4d6-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/querybatchpay.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "2993-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/style.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Thu, 01 Sep 2016 16:26:28 GMT
+If-None-Match: "1c31-53b74acfc1500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/submit.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 23 Aug 2016 05:40:14 GMT
+If-None-Match: "282d-53ab6994d6b80"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/time_chang.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "603a-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/dateSelector.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "2713-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/pub/dateSelectorHelper.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:40 GMT
+If-None-Match: "1ffc-5391333d03c00"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/PublicVariable.js?Version=NOVAV189 HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "247-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/pub/jquery.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "1d7bb-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/CurrencyInfo.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "bd5-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/js/ebdp-datepicker.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "152f7-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/js/ebdp-core.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "1de0-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery-ui-1.8.16.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "12e-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/js/jquery-1.6.2.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:46 GMT
+If-None-Match: "16622-53913342bc980"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/js/jquery-ui-1.8.16.min.js HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "33f2f-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/ebdp-datepicker.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "13f7-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.base.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "1b5-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.theme.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:40 GMT
+If-None-Match: "4492-5391333d03c00"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.core.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "5dc-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.resizable.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "4a7-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.selectable.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:40 GMT
+If-None-Match: "14d-5391333d03c00"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.progressbar.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "16f-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.slider.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "48b-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.autocomplete.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "489-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.button.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "9cd-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.datepicker.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "1064-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.dialog.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "563-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.accordion.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "43d-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/asset/css/jquery.ui.tabs.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "579-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+
+======================================================
+8:55:41  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/tongji.js?ver=181 HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "47ee-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+
+
+
+
+======================================================
+8:55:49  http://122.19.125.46:8081
+======================================================
+POST /ebankc/servlet/CSReqServlet HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Content-Length: 616
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ&dse_applicationId=-1&dse_pageId=11&dse_operationName=new_fovacheckQueryLstOp&MenuChain=%7CE6214%7CE6214%7CE6211%7CE6211%7CE97%7CE97&menuItemNoChain=%7CE6214%7CE6214%7CE6211%7CE6211%7CE97%7CE97&dse_errorPage=error.jsp&begin_date_ss=20270101&end_date_ss=20270725&QRYTYPE=1&PLACE1=0&PLACE2=0110&accNo=&currType=&begin_date_s=20270101&end_date_s=20270725&Begin_pos=0&Show_num=20&top_num=2&Transaction_code=002496&Transaction_name=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&firstFlag=0&OrderStat=111&OrderStatus=&Status1=1&Status2=2&Status3=3&Status4=4&PLACE=0
+======================================================
+
+
+
+======================================================
+8:55:49  http://122.19.125.46:8081
+======================================================
+POST /ebankc/servlet/CSReqServlet HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Content-Length: 474
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ&dse_applicationId=-1&dse_pageId=11&dse_operationName=new_fovacheckQueryDetailOp&MenuChain=%7CE6214%7CE6214%7CE6211%7CE6211%7CE97%7CE97&menuItemNoChain=%7CE6214%7CE6214%7CE6211%7CE6211%7CE97%7CE97&dse_errorPage=error.jsp&Transaction_code=002496&Transaction_name=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&top_num=2&Begin_row=0&Show_row=20&Begin_pos=0&switchFlag=0&Show_num=20&Begin_date=&End_date=&Batserialno=KOL7
+======================================================
+
+
+
+======================================================
+8:55:50  http://122.19.125.46:8081
+======================================================
+GET /ebankc/images/button/back.gif HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:40 GMT
+If-None-Match: "1a1-5391333d03c00"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:50  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/tongji.js?ver=181 HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "47ee-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:50  http://122.19.125.46:8081
+======================================================
+GET /ebankc/style.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Thu, 01 Sep 2016 16:26:28 GMT
+If-None-Match: "1c31-53b74acfc1500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:50  http://122.19.125.46:8081
+======================================================
+GET /ebankc/style/eshop.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "f0d-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:55:54  http://122.19.125.46:8081
+======================================================
+GET /ebankc/utf8_iframe.jsp?iframeid=iframe_cd6f3af024144343bc83a7fb2bae1b7e&style=background-color:transparent&str=584F584458495844204158535852584C584120505859204C5844 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:58:30  http://122.19.125.46:8081
+======================================================
+GET /ebankc/utf8_iframe.jsp?iframeid=iframe_3422dcab1c1c402e8f6dd32f45f58bb0&style=background-color:transparent&str=E794A8E9809432 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:58:36  http://122.19.125.46:8081
+======================================================
+GET /ebankc/utf8_iframe.jsp?iframeid=iframe_4cf16373cac0450587f0edd23b81bc99&style=background-color:transparent&str=E694B6E79B8AE4BABA32 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:58:36  http://122.19.125.46:8081
+======================================================
+GET /ebankc/utf8_iframe.jsp?iframeid=iframe_89bcbe42f11045b38c80e5e3a809616d&style=background-color:transparent&str=E98791E9A29DE5A4A7E58699E585ABE69C88E585ABE8A792E585ABE58886 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:59:06  http://122.19.125.46:8081
+======================================================
+POST /ebankc/servlet/CSReqServlet HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Content-Length: 476
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+dse_sessionId=FKAHADBCEBAAAQIHCAHVGRHIJACAFNAUAMBEAYAQ&dse_applicationId=-1&dse_pageId=11&dse_operationName=new_fovacheckQueryDetailOp&MenuChain=%7CE6214%7CE6214%7CE6211%7CE6211%7CE97%7CE97&menuItemNoChain=%7CE6214%7CE6214%7CE6211%7CE6211%7CE97%7CE97&dse_errorPage=error.jsp&Transaction_code=002496&Transaction_name=%BE%B3%CD%E2%D6%A7%C6%B1%D6%B8%C1%EE%B2%E9%D1%AF&top_num=2&Begin_row=0&Show_row=20&Begin_pos=0&switchFlag=0&Show_num=20&Begin_date=&End_date=&Batserialno=KOL202
+======================================================
+
+
+
+======================================================
+8:59:06  http://122.19.125.46:8081
+======================================================
+GET /ebankc/images/button/back.gif HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:40 GMT
+If-None-Match: "1a1-5391333d03c00"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:59:06  http://122.19.125.46:8081
+======================================================
+GET /ebankc/style.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Thu, 01 Sep 2016 16:26:28 GMT
+If-None-Match: "1c31-53b74acfc1500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:59:06  http://122.19.125.46:8081
+======================================================
+GET /ebankc/style/eshop.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:42 GMT
+If-None-Match: "f0d-5391333eec080"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:59:06  http://122.19.125.46:8081
+======================================================
+GET /ebankc/newjs/tongji.js?ver=181 HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+If-Modified-Since: Tue, 02 Aug 2016 09:18:44 GMT
+If-None-Match: "47ee-53913340d4500"
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:59:06  http://122.19.125.46:8081
+======================================================
+GET /ebankc/utf8_iframe.jsp?iframeid=iframe_08a99736d21247049620b5664708a0f9&style=background-color:transparent&str=584F584458495844204158535852584C584120505859204C5844 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:59:07  http://122.19.125.46:8081
+======================================================
+GET /ebankc/utf8_iframe.jsp?iframeid=iframe_fb48c8ec1b514ed3b3fc96ffaced851c&style=background-color:transparent&str=E694B6E79B8AE4BABAE5908DE7A7B031 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:59:08  http://122.19.125.46:8081
+======================================================
+GET /ebankc/utf8_iframe.jsp?iframeid=iframe_e756c23d03c747f49113821bd32489da&style=background-color:transparent&str=E98791E9A29DE5A4A7E58699EFBC9AE4BA94E782B9E4BA94E4BA94E58583 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+
+======================================================
+8:59:08  http://122.19.125.46:8081
+======================================================
+GET /ebankc/utf8_iframe.jsp?iframeid=iframe_247e0c238d9247d6acf4b045fa6a6e09&style=background-color:transparent&str=E8BF99E4B8AAE698AFE794A8E9809431 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://122.19.125.46:8081/ebankc/servlet/CSReqServlet
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 122.19.125.46:8081
+Proxy-Connection: Keep-Alive
+Cookie: ar_stat_uv=82659910901367723424|9999; JSESSIONID=0000EzoRWX8eBMOBLAdNHQ0YCCH:-1; ar_stat_ss=2285010225_1_1473756824_9999
+
+
+======================================================
+
+
+

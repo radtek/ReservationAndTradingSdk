@@ -1,0 +1,30 @@
+二月 09, 2017 1:50:29 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = EBMDB))),ebm,ebm
+二月 09, 2017 2:07:55 下午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='EBM' AND CYCLE='D' AND DATA_SOURCE='AAM' AND STEPNO IN ('EBM_D_AAM_AAM_D_IMP_4001', 'AAM_D_PROC_4001', 'AAM_D_IMP_4001')
+二月 09, 2017 2:08:05 下午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='1' WHERE APP='EBM' AND CYCLE='D' AND DATA_SOURCE='AAM' AND STEPNO IN ('EBM_D_AAM_AAM_D_PROC_0002', 'AAM_D_IMP_0001', 'AAM_D_PROC_0003', 'AAM_D_PROC_0001', 'AAM_D_PROC_0002')
+二月 09, 2017 8:00:52 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 09, 2017 8:01:18 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 10, 2017 8:41:58 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 10, 2017 8:42:22 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 10, 2017 8:46:28 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 10, 2017 8:50:22 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.13.83)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 10, 2017 8:52:42 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.13.83)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 10, 2017 8:52:43 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.13.83)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 10, 2017 8:53:27 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 10, 2017 8:57:10 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.77.219)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = npbmsdb))),batch,sys123
+二月 10, 2017 2:48:03 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.227)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = EBMDB))),ebm,ebm
+二月 10, 2017 2:57:12 下午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2028-05-20', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='EBM' AND CYCLE='D' AND DATA_SOURCE='LOCAL'

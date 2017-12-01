@@ -1,0 +1,8 @@
+四月 11, 2017 2:10:44 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.29.190)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+四月 11, 2017 2:13:36 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.13.114)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+四月 11, 2017 2:14:39 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.29.190)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+四月 11, 2017 2:15:23 下午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2027-12-20', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='GCCM'

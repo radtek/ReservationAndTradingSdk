@@ -1,0 +1,2 @@
+一月 18, 2017 9:05:02 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.13.154)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = EBMDB))),ebm,ebm

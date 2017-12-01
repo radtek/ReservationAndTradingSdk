@@ -1,0 +1,12 @@
+四月 06, 2017 8:41:15 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.45.107)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = BIOMMBO))),BIOMMBO,biommbo
+四月 06, 2017 8:41:56 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2025-09-23', MON_RUNDAY='', PRET_TYPE='UDSN', STATUS='1' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='LOCAL'
+四月 06, 2017 10:41:03 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.227)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+四月 06, 2017 11:00:09 上午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='INITB' AND STEPNO='INITB_D_PROC_0004'
+四月 06, 2017 11:00:10 上午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='INITB' AND STEPNO='INITB_D_PROC_0003'
+四月 06, 2017 11:00:12 上午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='INITB' AND STEPNO='INITB_D_PROC_0001'

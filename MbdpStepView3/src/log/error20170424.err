@@ -1,0 +1,4 @@
+四月 24, 2017 1:55:45 下午 com.icbc.devp.tool.log.Log error
+严重: 执行[UPDATE MBDP_B_CTL SET WORKDATE='2028-01-01', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='CB01']时出错：IO 错误: Software caused connection abort: recv failed
+四月 24, 2017 1:55:45 下午 com.icbc.devp.tool.log.Log error
+严重: 执行[UPDATE OBMS_BATCH_CTL SET WORKDATE='2028-01-01', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE||'#'||TZGCODE='CB01']时出错：关闭的连接

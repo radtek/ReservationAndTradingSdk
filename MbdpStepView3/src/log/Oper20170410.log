@@ -1,0 +1,14 @@
+四月 10, 2017 10:22:49 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.45.107)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = BIOMMBO))),BIOMMBO,biommbo
+四月 10, 2017 3:40:32 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.29.190)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+四月 10, 2017 3:43:36 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.13.114)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+四月 10, 2017 3:47:22 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.29.190)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+四月 10, 2017 4:02:10 下午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2028-09-20', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='MBO01'
+四月 10, 2017 4:02:11 下午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'MBO01' 
+四月 10, 2017 4:02:12 下午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2028-09-20', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='MBO01'

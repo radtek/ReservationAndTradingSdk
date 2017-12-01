@@ -1,0 +1,8 @@
+二月 28, 2017 10:29:23 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.227)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 28, 2017 10:30:46 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2016-10', MON_RUNDAY='1', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='EDI'
+二月 28, 2017 10:30:47 上午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'M'               AND T.DATA_SOURCE = 'EDI' 
+二月 28, 2017 1:38:15 下午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2016-10', MON_RUNDAY='1', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='EDI'

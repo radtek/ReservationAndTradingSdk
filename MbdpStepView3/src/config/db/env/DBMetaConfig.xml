@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GB2312"?>
+
+<TABLES>
+    <TABLE ID="CBMS">
+        <TableName>MSC_BATCHEXP_PARAM</TableName>
+        <FileNameColumn>FILE_NAME</FileNameColumn>
+        <TableNameColumn>SQLSTR</TableNameColumn>
+        <isClob>0</isClob>
+    </TABLE>
+
+    <TABLE ID="PBMS">
+        <TableName>PBMS_EXPFILE_CTL</TableName>
+        <FileNameColumn>FILE_NAME</FileNameColumn>
+        <TableNameColumn>REL_TABLES</TableNameColumn>
+        <isClob>0</isClob>
+    </TABLE>
+
+</TABLES>

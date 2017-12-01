@@ -1,0 +1,26 @@
+二月 21, 2017 10:01:29 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.227)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+二月 21, 2017 10:20:06 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-04-01', MON_RUNDAY='01', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='AAS'
+二月 21, 2017 10:20:07 上午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'M'               AND T.DATA_SOURCE = 'AAS' 
+二月 21, 2017 10:28:54 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-04', MON_RUNDAY='1', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='AAS'
+二月 21, 2017 10:29:13 上午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE OBMS_BATCH_CTL SET WORKDATE='2017-04', MON_RUNDAY='1', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE||'#'||TZGCODE='AAS'
+二月 21, 2017 10:29:13 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-04', MON_RUNDAY='1', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='AAS'
+二月 21, 2017 11:38:06 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-03', MON_RUNDAY='1', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='AAS'
+二月 21, 2017 11:38:27 上午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE OBMS_BATCH_CTL SET WORKDATE='2017-03', MON_RUNDAY='1', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE||'#'||TZGCODE='AAS'
+二月 21, 2017 11:43:25 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-04', MON_RUNDAY='30', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='AAS'
+二月 21, 2017 11:44:58 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-05', MON_RUNDAY='1', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='AAS'
+二月 21, 2017 11:46:33 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-05', MON_RUNDAY='1', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='AAS'
+二月 21, 2017 11:48:04 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-04', MON_RUNDAY='1', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='M' AND DATA_SOURCE='AAS'
+二月 22, 2017 3:54:17 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.77.40)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = npbmsdb))),batch,batch3

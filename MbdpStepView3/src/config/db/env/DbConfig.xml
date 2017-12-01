@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="GB2312"?>
+
+<DATABASE>
+    <CONNECTION ID="BIOMM_160910_GN">
+        <IP>122.20.109.196</IP>
+        <SID>BIOMMBO</SID>
+        <USER>BIOMMBO</USER>
+        <PWD>biommbo</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="BIOMM_1609_LC">
+        <IP>122.16.13.57</IP>
+        <SID>mobileDB</SID>
+        <USER>BIOMMBO</USER>
+        <PWD>BIOMMBO</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="BIOMM_1702_GN">
+        <IP>122.16.77.83</IP>
+        <SID>BIOMMBO</SID>
+        <USER>BIOMMBO</USER>
+        <PWD>biommbo</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="BIOMM_1705_LC">
+        <IP>122.16.45.107</IP>
+        <SID>BIOMMBO</SID>
+        <USER>BIOMMBO</USER>
+        <PWD>biommbo</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="BIOMM_1708_LC">
+        <IP>122.16.45.205</IP>
+        <SID>BIOMMBO</SID>
+        <USER>BIOMMBO</USER>
+        <PWD>biommbo</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="BIOMM_1710_GN">
+        <IP>122.16.77.83</IP>
+        <SID>BIOMMBO</SID>
+        <USER>BIOMMBO</USER>
+        <PWD>biommbo</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="BIOMM_1710_LC">
+        <IP>122.16.189.43</IP>
+        <SID>BIOMMBO</SID>
+        <USER>BIOMMBO</USER>
+        <PWD>biommbo</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_1609_GN">
+        <IP>122.16.93.53</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_1705_GN">
+        <IP>122.25.13.114</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_1709_GN">
+        <IP>122.21.125.122</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_GN_1704">
+        <IP>122.25.13.154</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_GN_1710">
+        <IP>122.16.109.135</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_LC_1701">
+        <IP>122.16.45.196</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_LC_1702">
+        <IP>122.16.93.193</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_LC_1704">
+        <IP>122.16.93.227</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_LC_1705">
+        <IP>122.25.29.190</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_LC_1707">
+        <IP>122.25.109.69</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_LC_1708">
+        <IP>122.21.141.62</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_LC_1710">
+        <IP>122.16.189.149</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_MC135">
+        <IP>83.24.1.135</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_MC154">
+        <IP>83.24.1.154</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_1704_GN">
+        <IP>122.21.125.122</IP>
+        <SID>EBMDB</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_1704_LC">
+        <IP>122.16.93.227</IP>
+        <SID>EBMDB</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_1707_GN">
+        <IP>122.16.93.8</IP>
+        <SID>EBMDB</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_1707_LC">
+        <IP>122.25.109.69</IP>
+        <SID>EBMDB</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_1709_GN">
+        <IP>122.21.125.122</IP>
+        <SID>EBMDB</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_LC_1608">
+        <IP>122.16.93.193</IP>
+        <SID>EBMDB</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_LC_1610">
+        <IP>122.18.61.98</IP>
+        <SID>EBMDB2</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_LC_1611">
+        <IP>122.16.45.119</IP>
+        <SID>EBMDB</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_LC_1702">
+        <IP>122.16.93.193</IP>
+        <SID>EBMDB</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_LC_1705">
+        <IP>122.25.29.190</IP>
+        <SID>EBMDB</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="EBM_LC_1707">
+        <IP>122.25.109.69</IP>
+        <SID>EBMDB</SID>
+        <USER>ebm</USER>
+        <PWD>ebm</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="GCMC_1601_LC">
+        <IP>122.25.29.194</IP>
+        <SID>GCMC</SID>
+        <USER>GCMC</USER>
+        <PWD>GCMC</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="MAMS_1601_LC">
+        <IP>122.25.29.194</IP>
+        <SID>MAMSDB</SID>
+        <USER>mams</USER>
+        <PWD>mams</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="MAMS_1607_LC">
+        <IP>122.16.93.137</IP>
+        <SID>MAMSDB</SID>
+        <USER>mams</USER>
+        <PWD>mams</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="MAMS_1610_LC">
+        <IP>122.16.29.109</IP>
+        <SID>MAMSDB</SID>
+        <USER>mams</USER>
+        <PWD>mams</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="MAMS_1612_LC">
+        <IP>122.16.13.202</IP>
+        <SID>MAMSDB</SID>
+        <USER>mams</USER>
+        <PWD>mams</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="PBMS_1601">
+        <IP>122.16.189.221</IP>
+        <SID>npbmsdb</SID>
+        <USER>batch</USER>
+        <PWD>sys123</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="PBMS_1611">
+        <IP>122.16.45.78</IP>
+        <SID>npbmsdb</SID>
+        <USER>batch</USER>
+        <PWD>batch3</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="PBMS_1702_GN">
+        <IP>122.16.77.219</IP>
+        <SID>npbmsdb</SID>
+        <USER>batch</USER>
+        <PWD>sys123</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+    <CONNECTION ID="CBMS_LC_1711">
+        <IP>122.22.13.40</IP>
+        <SID>MSCDB</SID>
+        <USER>msc</USER>
+        <PWD>msc</PWD>
+        <PORT>1521</PORT>
+    </CONNECTION>
+
+</DATABASE>

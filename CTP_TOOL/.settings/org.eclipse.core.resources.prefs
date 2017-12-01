@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/icbc/ctpInclude/AnalyseCTPInclude.java=UTF-8
+encoding//src/com/icbc/main/EBMMenuViewer.java=UTF-8
+encoding//src/com/icbc/main/ReadFiles.java=UTF-8
+encoding//src/com/icbc/main/SearchPath.java=UTF-8
+encoding//src/com/icbc/tool/ctp3/CTP3ItemPathSearcher.java=UTF-8
+encoding//src/com/icbc/tool/db/CTPBean.java=UTF-8
+encoding//src/com/icbc/tool/db/ReadDBTable.java=UTF-8
+encoding//src/com/icbc/tool/util/ReadJSP.java=UTF-8
+encoding//src/com/icbc/tool/util/ReadOP.java=UTF-8
+encoding//src/com/icbc/tool/util/WriteExcel.java=UTF-8
+encoding//src/com/icbc/tool/xml/ReadFlowc.java=UTF-8
+encoding//src/com/icbc/tool/xml/ReadOPG.java=UTF-8
+encoding//src/config/config.ini=UTF-8
+encoding/<project>=GBK

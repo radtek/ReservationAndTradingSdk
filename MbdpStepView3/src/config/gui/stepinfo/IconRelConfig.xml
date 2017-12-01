@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="GB2312"?>
+
+<!-- 用来存放不同的类型构件对应的ICON的 -->
+<ICONS>
+    <ICONREL PROG_TPYE="IMP"       ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="CHK"       ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="PRET"      ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="_ADVPROC"  ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="JAVA"      ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="JUMP"      ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="_SCHEDULE" ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="PROC"      ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="JPKG"      ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="FILECM"    ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="MKCTL"     ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="INIT"      ICON_PATH="icon/stepinfo/java.ico" />
+    <ICONREL PROG_TPYE="SETTING"   ICON_PATH="icon/common/icon_setting.png" />
+    <ICONREL PROG_TPYE="SETTING1"   ICON_PATH="icon/common/icon_setting1.png" />
+    <!-- 左边树的一些icon -->
+    <ICONREL PROG_TPYE="CLOSE_FOLDER"   ICON_PATH="icon/tree/cfolder.png" />
+    <ICONREL PROG_TPYE="OPEN_FOLDER"   ICON_PATH="icon/tree/folder.png" />
+    <ICONREL PROG_TPYE="TREE_LEAF"   ICON_PATH="icon/tree/leaf.png" />
+    <ICONREL PROG_TPYE="APPLY"   ICON_PATH="icon/common/apply.png" />
+    <ICONREL PROG_TPYE="BOARD_SH"      ICON_PATH="icon/common/bianq1.png" />
+    <ICONREL PROG_TPYE="OPENBOOK"      ICON_PATH="icon/common/openbook.png" />
+    <ICONREL PROG_TPYE="LOADDB"      ICON_PATH="icon/common/LOADDB.png" />
+    <ICONREL PROG_TPYE="REFRESH"      ICON_PATH="icon/stepinfo/load.png" />
+    <!-- 中间的 -->
+    <ICONREL PROG_TPYE="CROSS"      ICON_PATH="icon/stepinfo/cross.png" />
+    <ICONREL PROG_TPYE="CANCEL_SHOW"      ICON_PATH="icon/stepinfo/load.png" />
+    <ICONREL PROG_TPYE="OFFSET"      ICON_PATH="icon/stepinfo/offset.png" />
+    <ICONREL PROG_TPYE="ENABLE_REPAIR"      ICON_PATH="icon/stepinfo/enable_repair.png" />
+</ICONS>

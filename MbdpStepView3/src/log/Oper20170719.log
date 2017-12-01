@@ -1,0 +1,4 @@
+七月 19, 2017 9:57:49 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.77.40)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = npbmsdb))),batch,batch3
+七月 19, 2017 4:30:47 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.21.125.122)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc

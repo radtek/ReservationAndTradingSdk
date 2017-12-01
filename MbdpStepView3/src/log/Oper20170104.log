@@ -1,0 +1,16 @@
+一月 04, 2017 10:31:44 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.29.159)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+一月 04, 2017 2:38:09 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+一月 04, 2017 2:38:29 下午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'INITB' 
+一月 04, 2017 2:38:33 下午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='INITB' AND STEPNO='INITB_D_PROC_0003'
+一月 04, 2017 2:39:49 下午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'INITB' 
+一月 04, 2017 2:39:50 下午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'INITB' 
+一月 04, 2017 2:39:50 下午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'INITB' 
+一月 04, 2017 2:39:50 下午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'INITB' 

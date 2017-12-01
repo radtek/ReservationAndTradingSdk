@@ -1,0 +1,26 @@
+四月 28, 2017 2:50:22 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.45.107)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = BIOMMBO))),BIOMMBO,biommbo
+四月 28, 2017 2:50:44 下午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='AUTH' AND STEPNO='AUTH_D_IMP_0010'
+四月 28, 2017 2:50:48 下午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='1' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='AUTH' AND STEPNO='AUTH_D_IMP_0013'
+四月 28, 2017 2:51:04 下午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='AUTH' AND STEPNO='AUTH_D_IMP_0011'
+四月 28, 2017 2:51:09 下午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='1' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='AUTH' AND STEPNO='AUTH_D_IMP_0014'
+四月 28, 2017 2:51:15 下午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='AUTH' AND STEPNO='AUTH_D_IMP_0012'
+四月 28, 2017 2:51:34 下午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='1' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='AUTH' AND STEPNO='AUTH_D_IMP_0015'
+四月 28, 2017 2:52:29 下午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='AUTH' AND STEPNO IN ('BIOM_D_AUTH_AUTH_D_INIT_0003', 'AUTH_D_INIT_0001', 'AUTH_D_INIT_0003')
+四月 28, 2017 2:57:21 下午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2028-12-20', MON_RUNDAY='', PRET_TYPE='UDSN', STATUS='1' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='AUTH'
+四月 28, 2017 3:57:37 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.29.190)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+四月 28, 2017 3:57:40 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.29.190)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+四月 28, 2017 3:58:00 下午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2018-01-01', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='CB01'
+四月 28, 2017 3:58:09 下午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'CB01' 

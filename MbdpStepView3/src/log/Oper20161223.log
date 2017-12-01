@@ -1,0 +1,6 @@
+十二月 23, 2016 10:28:07 上午 com.icbc.devp.tool.log.Log info
+信息: 登录成功！IP = 122.16.93.53, username = mscbatch, password = mscbatch
+十二月 23, 2016 10:29:00 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.77.219)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = npbmsdb))),batch,sys123
+十二月 23, 2016 10:29:02 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.77.219)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = npbmsdb))),batch,sys123

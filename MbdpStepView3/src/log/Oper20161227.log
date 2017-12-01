@@ -1,0 +1,28 @@
+十二月 27, 2016 9:25:52 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+十二月 27, 2016 9:26:30 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-11-20', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='LOCAL'
+十二月 27, 2016 9:26:57 上午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'LOCAL' 
+十二月 27, 2016 9:26:59 上午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'LOCAL' 
+十二月 27, 2016 9:29:48 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = EBMDB))),ebm,ebm
+十二月 27, 2016 9:29:59 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-11-20', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='EBM' AND CYCLE='D' AND DATA_SOURCE='LOCAL'
+十二月 27, 2016 9:39:53 上午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='1' WHERE APP='EBM' AND CYCLE='D' AND DATA_SOURCE='LOCAL' AND STEPNO IN ('EBM_D_LOCAL_LOCAL_D_MKCTL_0101', 'LOCAL_D_FILECM_0018', 'LOCAL_D_FILECM_0009', 'LOCAL_D_MKCTL_0101', 'LOCAL_D_FILECM_0015', 'LOCAL_D_MKCTL_0001', 'LOCAL_D_FILECM_0111', 'LOCAL_D_FILECM_0019', 'LOCAL_D_FILECM_4003', 'LOCAL_D_FILECM_0010', 'LOCAL_D_FILECM_0001', 'LOCAL_D_FILECM_4000', 'LOCAL_D_FILECM_4007', 'LOCAL_D_FILECM_0014', 'LOCAL_D_FILECM_0013', 'LOCAL_D_FILECM_4005', 'LOCAL_D_FILECM_0012', 'LOCAL_D_EXP_4001', 'LOCAL_D_FILECM_0011', 'LOCAL_D_FILECM_4004')
+十二月 27, 2016 9:40:56 上午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='1' WHERE APP='EBM' AND CYCLE='D' AND DATA_SOURCE='LOCAL' AND STEPNO IN ('EBM_D_LOCAL_LOCAL_D_EXP_0011', 'LOCAL_D_FILECM_0112', 'LOCAL_D_FILECM_0018', 'LOCAL_D_FILECM_0009', 'LOCAL_D_MKCTL_0101', 'LOCAL_D_FILECM_0015', 'LOCAL_D_MKCTL_0001', 'LOCAL_D_FILECM_0111', 'LOCAL_D_EXP_0011', 'LOCAL_D_FILECM_0019', 'LOCAL_D_FILECM_4003', 'LOCAL_D_FILECM_0010', 'LOCAL_D_FILECM_0001', 'LOCAL_D_FILECM_4000', 'LOCAL_D_FILECM_4007', 'LOCAL_D_FILECM_0014', 'LOCAL_D_FILECM_0013', 'LOCAL_D_FILECM_4005', 'LOCAL_D_FILECM_0012', 'LOCAL_D_FILECM_0011')
+十二月 27, 2016 9:42:06 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2017-11-20', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='EBM' AND CYCLE='D' AND DATA_SOURCE='LOCAL'
+十二月 27, 2016 10:26:13 上午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='EBM' AND CYCLE='D' AND DATA_SOURCE='LOCAL' AND STEPNO='LOCAL_D_EXP_0011'
+十二月 27, 2016 10:26:18 上午 com.icbc.devp.tool.log.Log info
+信息: [DbDataUpdate.updateEnableFlag]执行语句:UPDATE MBDP_B_STEPDEF SET ENABLE_FLAG='0' WHERE APP='EBM' AND CYCLE='D' AND DATA_SOURCE='LOCAL' AND STEPNO='LOCAL_D_FILECM_0112'
+十二月 27, 2016 2:20:23 下午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.193)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = MSCDB))),msc,msc
+十二月 27, 2016 2:31:24 下午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2027-03-18', MON_RUNDAY='', PRET_TYPE='UDS', STATUS='1' WHERE APP='CBMS' AND CYCLE='D' AND DATA_SOURCE='EBM'
+十二月 27, 2016 2:31:26 下午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='CBMS'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'EBM' 

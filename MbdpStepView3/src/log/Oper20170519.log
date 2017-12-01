@@ -1,0 +1,6 @@
+五月 19, 2017 10:55:02 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.45.107)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = BIOMMBO))),BIOMMBO,biommbo
+五月 19, 2017 11:01:34 上午 com.icbc.devp.tool.log.Log info
+信息: 执行SQL语句：UPDATE MBDP_B_CTL SET WORKDATE='2028-12-31', MON_RUNDAY='', PRET_TYPE='UDSN', STATUS='1' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='AUTH'
+五月 19, 2017 11:01:35 上午 com.icbc.devp.tool.log.Log info
+信息: [DataLoader.refreshCtl]执行语句：SELECT T.WORKDATE,                           T.MON_RUNDAY,                         T.STATUS,                             T.PRET_TYPE                      FROM MBDP_B_CTL T                    WHERE T.APP='BIOM'                     AND T.CYCLE = 'D'               AND T.DATA_SOURCE = 'AUTH' 

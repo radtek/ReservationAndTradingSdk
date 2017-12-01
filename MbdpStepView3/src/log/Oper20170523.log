@@ -1,0 +1,8 @@
+五月 23, 2017 9:26:26 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.109.69)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = EBMDB))),ebm,ebm
+五月 23, 2017 9:29:01 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.16.93.8)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = EBMDB))),ebm,ebm
+五月 23, 2017 9:29:39 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.109.69)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = EBMDB))),ebm,ebm
+五月 23, 2017 9:33:20 上午 com.icbc.devp.tool.log.Log info
+信息: 建立连接:jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=122.25.109.69)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME = EBMDB))),ebm,ebm

@@ -1,0 +1,17 @@
+十二月 23, 2016 10:24:06 上午 com.icbc.devp.tool.log.Log errorAndLog
+警告: [2016-12-23 10:24:06][ERROR][XMLLoader.load]ERROR:文件E:\珠海测试部\营销批量\MbdpStepView3\src/config/gui/GuiFrameCfg.xml加载失败!E:\珠海测试部\营销批量\MbdpStepView3\src\config\gui\GuiFrameCfg.xml (系统找不到指定的路径。)
+十二月 23, 2016 10:24:06 上午 com.icbc.devp.tool.log.Log exception
+严重: com.icbc.devp.gui.UiContext.loadConfig(UiContext.java:95)
+com.icbc.devp.gui.UiContext.<init>(UiContext.java:25)
+com.icbc.devp.gui.UiContext.<clinit>(UiContext.java:28)
+com.icbc.devp.gui.entry.Start.main(Start.java:44)
+
+十二月 23, 2016 10:24:07 上午 com.icbc.devp.tool.log.Log errorAndLog
+警告: [2016-12-23 10:24:07][ERROR][XMLLoader.load]ERROR:文件E:\珠海测试部\营销批量\MbdpStepView3\src\config\db\env\DbConfig.xml加载失败!E:\珠海测试部\营销批量\MbdpStepView3\src\config\db\env\DbConfig.xml (系统找不到指定的路径。)
+十二月 23, 2016 10:24:07 上午 com.icbc.devp.tool.log.Log exception
+严重: com.icbc.devp.gui.factory.DbConnectionLoader.loadDbConfig(DbConnectionLoader.java:34)
+com.icbc.devp.gui.toolbar.ViewToolPane.initDbConfig(ViewToolPane.java:103)
+com.icbc.devp.gui.toolbar.ViewToolPane.init(ViewToolPane.java:37)
+com.icbc.devp.gui.toolbar.ViewToolPane.<init>(ViewToolPane.java:30)
+com.icbc.devp.gui.entry.Start.main(Start.java:51)
+

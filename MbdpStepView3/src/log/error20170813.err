@@ -1,0 +1,4 @@
+八月 14, 2017 2:48:49 下午 com.icbc.devp.tool.log.Log error
+严重: 执行[UPDATE MBDP_B_CTL SET WORKDATE='2028-04-21', MON_RUNDAY='', PRET_TYPE='UDSN', STATUS='1' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE='AUTH']时出错：IO 错误: Connection reset by peer: socket write error
+八月 14, 2017 2:48:49 下午 com.icbc.devp.tool.log.Log error
+严重: 执行[UPDATE OBMS_BATCH_CTL SET WORKDATE='2028-04-21', MON_RUNDAY='', PRET_TYPE='UDSN', STATUS='1' WHERE APP='BIOM' AND CYCLE='D' AND DATA_SOURCE||'#'||TZGCODE='AUTH']时出错：关闭的连接

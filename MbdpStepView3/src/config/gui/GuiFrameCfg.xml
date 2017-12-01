@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312"?>
+
+<!-- 用于设置Frame参数的配置文件，包括一些基本的信息等，初始化的时候直接用到这些参数-->
+<GUI>
+	<VIEWCFG>
+		<WIDTH>300</WIDTH>
+		<HEIGHT>200</HEIGHT>
+		<TITLE>批量开发辅助工具 BETA V1.0</TITLE>
+		<CELL_WIDTH_SPLIT>40</CELL_WIDTH_SPLIT>
+		<CELL_HEIGHT_SPLIT>25</CELL_HEIGHT_SPLIT>
+	</VIEWCFG>
+</GUI>
