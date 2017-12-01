@@ -1,6 +1,0 @@
-1、FileTableRel.csv
-	 这里存的是导入文件和接口表的对照关系，请通过“更新-更新导入文件和接口表对照关系”来更新该文件。
-2、update.csv：
-	 用来配置一些更新表但是通过参数来传入表的存储过程，例如PCKG_MBDP_B_PBMS.CLN_OTHERS_DATA，
-	 参数“IN_PAR1=$APP|IN_PAR2=$CYCLE|IN_PAR3=$DATASOURCE|IN_PAR4=$WORKDATE|IN_PAR5=T|IN_PAR6=PBMS_PRDCRD_LFIV_INF|IN_PAR7=|IN_PAR8=”，其中第6个参数是表名，那就在A列填存储过程名称，B列填6
-3、生成检查导出文件对应数据库表与DDL关系
